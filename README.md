@@ -1,6 +1,6 @@
 AI Smart Chatbot for PGRKAM
 
-This project is an AI-powered employment assistance chatbot designed for the Punjab Ghar Ghar Rozgar and Karobar Mission (PGRKAM). It helps job seekers search jobs, apply online, track applications, and interact with a multilingual chatbot powered by modern AI.
+This project is an AI-powered employment assistance chatbot designed for the Punjab Ghar Ghar Rozgar and Karobar Mission (PGRKAM). It helps job seekers search jobs, apply online, track applications, and interact with a multilingual chatbot powered by modern AI..
 
 🔥 Features
 
