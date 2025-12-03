@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+transformers
+torch
+pydub
+SpeechRecognition
+numpy
+matplotlib
+seaborn
+pandas
+python-dotenv
